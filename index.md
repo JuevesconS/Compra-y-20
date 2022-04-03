@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Te estabamos esperanco, bienvenido y enhorabuena. Por darte la oportunidad de conocer el fraude del dinero 
 
 You can use the [editor on GitHub](https://github.com/JuevesconS/Compra-y-20/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
