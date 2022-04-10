@@ -1,6 +1,6 @@
 ## Te estabamos esperanco, bienvenido y enhorabuena. Por darte la oportunidad de conocer el fraude economico
 
-You can use the [editor on GitHub](https://github.com/JuevesconS/Compra-y-20/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Taller anarkista musica. Dedicados al fomento de la mucica y buena mierda 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
