@@ -1,6 +1,6 @@
-## Te estabamos esperanco, bienvenido y enhorabuena. Por darte la oportunidad de conocer el fraude economico
+## Te estabamos esperando, bienvenido y enhorabuena. Por darte la oportunidad de conocer el fraude economico
 
-Taller anarkista musica. Dedicados al fomento de la mucica y buena mierda 
+Taller anarkista musica. Dedicados al fomento de la musica y buena mierda 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
